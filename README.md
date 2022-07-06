@@ -6,4 +6,6 @@ I'll walk you through the elements of the game, feel free to use the files provi
 Let's get started. 
 
 ## STORYBOARD
-Every game starts with an idea. I started by creating a game journal for Alien Attack. In the journal out wrote out the description of the game, 
+Every game starts with an idea. I started by creating a game journal for Alien Attack. In the journal out wrote out the description of the game. 
+![myra-game-journal](https://user-images.githubusercontent.com/28787937/177609432-877a3173-996c-4be8-a97c-b3ec8811c1f6.jpg)
+After I wrote out my game journal, I created a storyboard. 
