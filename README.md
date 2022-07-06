@@ -1,7 +1,16 @@
 # ALIEN ATTACK GAME
 
 Alien Attack is a game I created using Scatch, block coding software. The game has a simple storyline, graphics, sounds, and motion. 
-I'll walk you through the elements of the game, feel free to use the files provided (just remember to provide attribution) or create your own. 
+I'll walk you through the elements of the game, feel free to use the files provided (***just remember to provide attribution***) or create your own graphics and game.  
+
+**The inspiration for the game is the movie: Gravity **
+
+Tools I used: 
+- [Canva](http://canva.com) to create backgrounds and sprite graphics
+- [Audacity](https://www.audacityteam.org/) to edit and convert audio to mp3
+- [Astronaut Voice app](https://appgrooves.com/ios/584369584/astronaut-voice/qneo) to create the space audio for the gam
+- [Scratch](https://scratch.mit.edu/) to build the game
+- [Htmlifier](https://sheeptester.github.io/htmlifier/) to convert my scratch file to an html viewable and playable file
 
 Let's get started. 
 
