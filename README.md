@@ -1,5 +1,7 @@
 # ALIEN ATTACK GAME
 
+![1](https://user-images.githubusercontent.com/28787937/177619226-62c239df-c123-461b-bd16-927e99d7f9b8.png)
+
 Alien Attack is a game I created using Scatch, block coding software. The game has a simple storyline, graphics, sounds, and motion. 
 I'll walk you through the elements of the game, feel free to use the files provided (***just remember to provide attribution***) or create your own graphics and game.  
 
