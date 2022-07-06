@@ -22,7 +22,7 @@ Every game starts with an idea. I started by creating a game journal for Alien A
 
 After I wrote out my game journal, I created a storyboard using [Mural](http://mural.co)
 
-<img width="800" alt="Screen Shot 2022-07-06 at 11 05 13 AM" src="https://user-images.githubusercontent.com/28787937/177614768-bcf35e9e-47c1-4c0c-a91d-d633db2f8be1.png">
+<img width="800" alt="game journal" src="https://user-images.githubusercontent.com/28787937/177614768-bcf35e9e-47c1-4c0c-a91d-d633db2f8be1.png">
 
 ## GRAPHICS
 Once I had a storyboard it was time to create graphics. I decided I wanted to use Pixel graphics. I used [Canva](https://www.canva.com/) and stock graphics. I started by creating the backdrops for the game, I created a canvas that is 490 x 360 px the backdrops consisted of a the title screen and blank backdrops screen using a space theme. You can [access the graphics here](https://www.canva.com/design/DAFFa6qkJdI/2McFcdiMdbF87_xYTCh2wA/view?utm_content=DAFFa6qkJdI&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
@@ -39,5 +39,7 @@ I wanted to add some audio to the game to provide a storyline and create a scene
 ***Ryan Stone: [Still attached] No! No!
 
 ***Matt Kowalski: If you don't detach that arm's gonna carry you too far! Listen to my voice! You need to focus! I'm losing visual of you. In a few seconds I won't be able to track you. You need to detach. I can't see you any more. Do it now!"
+
+<img height="500" alt="astronaut voice" src="https://user-images.githubusercontent.com/28787937/177621095-46aab16e-2125-441f-b139-c69755c9b018.jpeg">
 
 I recorded the audio and then shared it directly from the app, it creates an m4v file which I can't use in Scratch. I had to edit the audio using Audacity (a free audio editing tool) to convert the audio and export as an mp3. 
