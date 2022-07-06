@@ -30,3 +30,14 @@ Once I had a storyboard it was time to create graphics. I decided I wanted to us
 Then I create a handful of grpahics I would use a Sprites for the game. Sprites are just characters create a new canvas sized to 250 x 250 px. I then searched for the graphics I needed, putting one graphic per page. Then I downloaded the graphics as transparent background PNG files. You can [access the graphics here](https://www.canva.com/design/DAFFax_buEg/qVPvRRrkB8LysuwJhCb8Jw/view?utm_content=DAFFax_buEg&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) 
 
 ![spaceman+ship](https://user-images.githubusercontent.com/28787937/177616538-0be6afd7-d0c9-4b59-b7a8-c41a684d4a2f.png)
+
+## AUDIO
+I wanted to add some audio to the game to provide a storyline and create a scene where the initial conflict begins. I used the Astronaut Voice app which coast $2.99 on iOS. I grabs some IMDB quotes from the movie Gravity and used that the create a script for the recording. 
+
+***"Matt Kowalski: Explorer's been hit. Explorer do you read? Explorer, over, Explorer? Astronaut is off structure. Dr Stone is off structure. Dr. Stone detach! You must detach!
+
+***Ryan Stone: [Still attached] No! No!
+
+***Matt Kowalski: If you don't detach that arm's gonna carry you too far! Listen to my voice! You need to focus! I'm losing visual of you. In a few seconds I won't be able to track you. You need to detach. I can't see you any more. Do it now!"
+
+I recorded the audio and then shared it directly from the app, it creates an m4v file which I can't use in Scratch. I had to edit the audio using Audacity (a free audio editing tool) to convert the audio and export as an mp3. 
