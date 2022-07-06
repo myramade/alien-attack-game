@@ -34,11 +34,11 @@ Then I create a handful of grpahics I would use a Sprites for the game. Sprites 
 ## AUDIO
 I wanted to add some audio to the game to provide a storyline and create a scene where the initial conflict begins. I used the Astronaut Voice app which coast $2.99 on iOS. I grabs some IMDB quotes from the movie Gravity and used that the create a script for the recording. 
 
-***"Matt Kowalski: Explorer's been hit. Explorer do you read? Explorer, over, Explorer? Astronaut is off structure. Dr Stone is off structure. Dr. Stone detach! You must detach!
+   _"Matt Kowalski: Explorer's been hit. Explorer do you read? Explorer, over, Explorer? Astronaut is off structure. Dr Stone is off structure. Dr. Stone        detach! You must detach!_
 
-***Ryan Stone: [Still attached] No! No!
+   _Ryan Stone: [Still attached] No! No!_
 
-***Matt Kowalski: If you don't detach that arm's gonna carry you too far! Listen to my voice! You need to focus! I'm losing visual of you. In a few seconds I won't be able to track you. You need to detach. I can't see you any more. Do it now!"
+   _Matt Kowalski: If you don't detach that arm's gonna carry you too far! Listen to my voice! You need to focus! I'm losing visual of you. In a few           seconds I won't be able to track you. You need to detach. I can't see you any more. Do it now!"_
 
 <img height="500" alt="astronaut voice" src="https://user-images.githubusercontent.com/28787937/177621095-46aab16e-2125-441f-b139-c69755c9b018.jpeg">
 
