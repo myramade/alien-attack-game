@@ -5,7 +5,7 @@
 Alien Attack is a game I created using Scatch, block coding software. The game has a simple storyline, graphics, sounds, and motion. 
 I'll walk you through the elements of the game, feel free to use the files provided (***just remember to provide attribution***) or create your own graphics and game.  
 
-**The inspiration for the game is the movie: Gravity **
+**The inspiration for the game is the movie: [Gravity](https://youtu.be/OiTiKOy59o4)
 
 Tools I used: 
 - [Canva](http://canva.com) to create backgrounds and sprite graphics
