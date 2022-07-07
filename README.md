@@ -47,3 +47,16 @@ I recorded the audio and then shared it directly from the app, it creates an m4v
 ## Game Mechanics
 As I planned out the game, I needed to keep the game mechanics simple - use the arrow keys to move the characters and don't touch an alien. There is a fule level tracker, when you touch an alien you lose fuel. however, I need to spend a little more time being intentional aboutd the fuel level as there is no penalty for going negative on the fuel level (I'll have to change that soon). 
 I rate the game **E** for everyone of the platformers game genre. Platformer games deal with jumping from platform to platform, having the player avoid obstacles. 
+
+## Game Build
+Building the actual game was a bit easier because I did a lot of the prep work upfront. I began with a clean workspace, then uploaded all of the backdrops I created. The I added sprites one by one an programmed each as I uploaded them based on the actions they should take. 
+
+Here's a link to the [Alien Attack Scratch project ](https://scratch.mit.edu/projects/711606366/). You can take a look inside and view the code blocks as they have been programmed. You can also remix this game to make it batter. If you do make improvmments be sure to share. Some suggested improveents includ:
+- adding more levels
+- adding complexity
+- addiing additional sound
+- extending the storyline
+- adding level completion screens
+- adding consequence to the gas levels - if levels fall to zero, end game (?)
+
+
