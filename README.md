@@ -14,7 +14,7 @@ Tools I used:
 - [Scratch](https://scratch.mit.edu/) to build the game
 - [Htmlifier](https://sheeptester.github.io/htmlifier/) to convert my scratch file to an html viewable and playable file
 
-Let's get started. 
+**[Play the game](https://myramade.github.io/alien-attack-game/alien-attack.html)** 
 
 ## STORYBOARD
 Every game starts with an idea. I started by creating a game journal for Alien Attack. In the journal out wrote out the description of the game. 
