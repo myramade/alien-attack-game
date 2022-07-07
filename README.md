@@ -43,3 +43,7 @@ I wanted to add some audio to the game to provide a storyline and create a scene
 <img height="500" alt="astronaut voice" src="https://user-images.githubusercontent.com/28787937/177621095-46aab16e-2125-441f-b139-c69755c9b018.jpeg">
 
 I recorded the audio and then shared it directly from the app, it creates an m4v file which I can't use in Scratch. I had to edit the audio using Audacity (a free audio editing tool) to convert the audio and export as an mp3. 
+
+## Game Mechanics
+As I planned out the game, I needed to keep the game mechanics simple - use the arrow keys to move the characters and don't touch an alien. There is a fule level tracker, when you touch an alien you lose fuel. however, I need to spend a little more time being intentional aboutd the fuel level as there is no penalty for going negative on the fuel level (I'll have to change that soon). 
+I rate the game **E** for everyone of the platformers game genre. Platformer games deal with jumping from platform to platform, having the player avoid obstacles. 
