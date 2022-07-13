@@ -51,12 +51,13 @@ I rate the game **E** for everyone of the platformers game genre. Platformer gam
 ## Game Build
 Building the actual game was a bit easier because I did a lot of the prep work upfront. I began with a clean workspace, then uploaded all of the backdrops I created. The I added sprites one by one an programmed each as I uploaded them based on the actions they should take. 
 
-Here's a link to the [Alien Attack Scratch project ](https://scratch.mit.edu/projects/711606366/). You can take a look inside and view the code blocks as they have been programmed. You can also remix this game to make it batter. If you do make improvmments be sure to share. Some suggested improveents includ:
+Here's a link to the [Alien Attack Scratch project ](https://scratch.mit.edu/projects/711606366/). You can take a look inside and view the code blocks as they have been programmed. You can also remix this game to make it better. If you do make improvements be sure to share. Some suggested improveents include:
 - adding more levels
 - adding complexity
 - addiing additional sound
 - extending the storyline
 - adding level completion screens
 - adding consequence to the gas levels - if levels fall to zero, end game (?)
-
+- adding boundaries
+- simplify the code
 
